@@ -8,7 +8,7 @@
     "test": "test"
   },
   "devDependencies": {
-    "jest":"^24.8.0"
+    "jest": "^24.8.0"
   },
   "scripts": {
     "test": "jest"
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/houchenghao/Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/houchenghao/Team-Profile-Generator#readme"
+  "homepage": "https://github.com/houchenghao/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
